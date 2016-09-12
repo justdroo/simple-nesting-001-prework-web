@@ -137,3 +137,5 @@ def adding_to_dennis
 
 		 programmer_hash
 end
+
+#change to get this thing to fucking upload correctly
